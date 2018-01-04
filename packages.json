@@ -1,0 +1,28 @@
+{
+    "name": "ColleteApi",
+    "version": "1.0.0",
+    "description": "Collete restuful api",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "irvinzio",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/irvinzio/ColleteApi.git"
+    },
+    "bugs": {
+      "url": "https://github.com/irvinzio/ColleteApi/issues"
+    },
+    "homepage": "https://github.com/irvinzio/ColleteApi#readme",
+    "dependencies": {
+      "body-parser": "^1.18.2",
+      "express": "^4.16.2",
+      "gulp": "^3.9.1",
+      "mongodb": "^3.0.0-rc0",
+      "mongoose": "^4.13.7",
+      "should": "^13.1.3",
+      "sinon": "^4.1.3"
+    }
+  }
